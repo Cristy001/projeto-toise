@@ -25,7 +25,7 @@ header{
     font-size: larger;
     text-align: center;
     background-image:linear-gradient(to bottom,#498ada 70%, #bfac95);
-    min-width: 375px;
+    min-width: 360px;
     max-width: 700px;
     margin: 10px auto 0px auto;
     
@@ -131,7 +131,7 @@ aside>ul{
 
 }
 div{
-    margin: 0px -20px;
+    margin: 0px -18px;
     position: relative;
     padding-bottom: 50%;
 
